@@ -7,7 +7,7 @@
 - ⚡ Skills: Full-Stack Development | React | Next.js | Node.js | TypeScript | SQL & NoSQL Databases | REST & GraphQL APIs | State Management (Redux, Zustand) | Testing (Jest, Cypress)
 
 
-- ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+- ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Javad-ali/Javad-ali/output/github-contribution-grid-snake-dark.svg)
 
 <!---
 Javad-ali/Javad-ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
